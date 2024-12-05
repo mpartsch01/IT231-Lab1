@@ -19,8 +19,12 @@
             Console.WriteLine("Enter your second number: ");
             y = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine($"You've entered {y}");
+
             Console.WriteLine("And the sum of these two numbers is: ");
-            Console.Write(x + y);
+            Console.WriteLine(x + y);
+
+            Console.WriteLine("And the product of these two numbers is: ");
+            Console.WriteLine(x * y);
         }
     }
 }
