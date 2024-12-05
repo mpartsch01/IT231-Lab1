@@ -1,0 +1,15 @@
+C:\Users\bubbl\OneDrive\Documents\MyCodingProjects\IT231-Lab1\IT231-CSharp\bin\Debug\net8.0\IT231-CSharp.exe
+C:\Users\bubbl\OneDrive\Documents\MyCodingProjects\IT231-Lab1\IT231-CSharp\bin\Debug\net8.0\IT231-CSharp.deps.json
+C:\Users\bubbl\OneDrive\Documents\MyCodingProjects\IT231-Lab1\IT231-CSharp\bin\Debug\net8.0\IT231-CSharp.runtimeconfig.json
+C:\Users\bubbl\OneDrive\Documents\MyCodingProjects\IT231-Lab1\IT231-CSharp\bin\Debug\net8.0\IT231-CSharp.dll
+C:\Users\bubbl\OneDrive\Documents\MyCodingProjects\IT231-Lab1\IT231-CSharp\bin\Debug\net8.0\IT231-CSharp.pdb
+C:\Users\bubbl\OneDrive\Documents\MyCodingProjects\IT231-Lab1\IT231-CSharp\obj\Debug\net8.0\IT231-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bubbl\OneDrive\Documents\MyCodingProjects\IT231-Lab1\IT231-CSharp\obj\Debug\net8.0\IT231-CSharp.AssemblyInfoInputs.cache
+C:\Users\bubbl\OneDrive\Documents\MyCodingProjects\IT231-Lab1\IT231-CSharp\obj\Debug\net8.0\IT231-CSharp.AssemblyInfo.cs
+C:\Users\bubbl\OneDrive\Documents\MyCodingProjects\IT231-Lab1\IT231-CSharp\obj\Debug\net8.0\IT231-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\bubbl\OneDrive\Documents\MyCodingProjects\IT231-Lab1\IT231-CSharp\obj\Debug\net8.0\IT231-CSharp.sourcelink.json
+C:\Users\bubbl\OneDrive\Documents\MyCodingProjects\IT231-Lab1\IT231-CSharp\obj\Debug\net8.0\IT231-CSharp.dll
+C:\Users\bubbl\OneDrive\Documents\MyCodingProjects\IT231-Lab1\IT231-CSharp\obj\Debug\net8.0\refint\IT231-CSharp.dll
+C:\Users\bubbl\OneDrive\Documents\MyCodingProjects\IT231-Lab1\IT231-CSharp\obj\Debug\net8.0\IT231-CSharp.pdb
+C:\Users\bubbl\OneDrive\Documents\MyCodingProjects\IT231-Lab1\IT231-CSharp\obj\Debug\net8.0\IT231-CSharp.genruntimeconfig.cache
+C:\Users\bubbl\OneDrive\Documents\MyCodingProjects\IT231-Lab1\IT231-CSharp\obj\Debug\net8.0\ref\IT231-CSharp.dll
